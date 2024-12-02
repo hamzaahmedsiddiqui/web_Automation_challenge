@@ -1,4 +1,4 @@
-# Web Automation and Manual testing 
+# Automated UI Testing Project for Quipu   
 
 This project automates the UI testing of the [AutomationPractice](http://www.automationpractice.pl/index.php) website using Selenium, Pytest, and Allure for reporting. It includes tests for login, product search, and adding items to the cart.
 

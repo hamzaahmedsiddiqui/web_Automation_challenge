@@ -9,8 +9,7 @@ This project automates the UI testing of the [AutomationPractice](http://www.aut
 - [Frameworks and Tools Used](#frameworks-and-tools-used)  
 - [Setup Instructions](#setup-instructions)  
 - [Test Scenarios](#test-scenarios)  
-- [Known Issues](#known-issues)  
-- [Reporting](#reporting)  
+- [Future Enhancements and Commitments](#Future-Enhancements)  
 
 ---
 

@@ -44,7 +44,7 @@ def test_search(driver):
 
 
 @allure.feature('Add to Cart Feature')
-@allure.story('Search product, select size, and add to cart')
+@allure.story('Add product to the cart')
 @allure.severity(allure.severity_level.CRITICAL)
 def test_add_to_cart(driver):
     # Initialize the required page objects
